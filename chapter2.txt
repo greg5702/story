@@ -1,1 +1,1 @@
-Some day I will master Javascript.
+Some day I will master Javascript. Git seems difficult at times
